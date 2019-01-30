@@ -29,5 +29,5 @@ The package requires a standard Python2.7 installation with numpy, cython, matpl
 
 To run the Hsp70 protein example, please download first the alignment, data & model by running first:
 
-'sh download_Hsp70_data.sh'
+> sh download_Hsp70_data.sh
 
