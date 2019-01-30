@@ -12,7 +12,7 @@ Furthermore, RBM define a probability distribution over sequences that includes 
 ## Examples:
 We provide Jupyter notebooks for training RBM on the Kunitz domain, WW domain, Hsp70 protein and Lattice Proteins, as well as for reproducing the figures 2-7 of the article. Structures were visualised using the software VMD https://www.ks.uiuc.edu/Research/vmd/ (not included). Please see the examples in the notebooks for an introduction to the package.
 
-![Learning Protein Constitutive Motifs of the WW Domain](figure_readme.pdf)
+![Learning Protein Constitutive Motifs of the WW Domain](figure_readme.png)
 
 
 
