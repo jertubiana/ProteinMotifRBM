@@ -27,3 +27,6 @@ More specifically:
 ## Installation:
 The package requires a standard Python2.7 installation with numpy, cython, matplotlib,… as well as jupyter notebook. See e.g. https://www.anaconda.com/download/
 
+To run the Hsp70 protein example, please download first the alignment, data & model by running first:
+sh download_Hsp70_data.sh
+
